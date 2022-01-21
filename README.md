@@ -1,5 +1,9 @@
 Hello im Bjarne.
-Im currently learning Godot and Vue.
+20TwentyTwoDoList
+[]Tailwind
+[]Alpine.js
+[]Release a game.
+[]Release an app on the AppStore.
 
 <!---
 bvoigtlaender/bvoigtlaender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
