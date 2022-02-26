@@ -2,7 +2,7 @@ Hello im Bjarne.
 
 Here is my 20TwentyTwo DoList
 
-- -Tailwind-
+- ~~Tailwind
 - Alpine.js
 - Three.js
 - Release a game.
