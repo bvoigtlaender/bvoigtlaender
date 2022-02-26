@@ -1,6 +1,6 @@
 Hello im Bjarne.
 
-Here is my 20TwentyTwo DoList
+Here is my 20TwentyTwoDoList
 
 - ~~Tailwind~~
 - Alpine.js
