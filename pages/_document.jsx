@@ -8,7 +8,7 @@ export default function Document() {
         <meta name="og:title" content="Bjarne Voigtländer" />
         <meta name="og:description" content="I make good websites." />
       </Head>
-      <body>
+      <body className="overflow-y-scroll p-4">
         <Main />
         <NextScript />
       </body>
