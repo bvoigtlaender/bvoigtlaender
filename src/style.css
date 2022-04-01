@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html::-webkit-scrollbar {
+  display: hidden;
+}
+
+html {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+body {
+  background-image: radial-gradient(#efe 95%, #000 95%);
+  background-size: 1rem 1rem;
+  background-attachment: fixed;
+}
+
+.pattern-1 {
+  background-color: #fff;
+  background: repeating-linear-gradient(
+    0deg,
+    #000,
+    #000 5px,
+    #fff 5px,
+    #fff 15px
+  );
+}
+
+.pattern-2 {
+  background-color: #fff;
+  background: repeating-linear-gradient(
+    45deg,
+    #000,
+    #000 5px,
+    #fff 5px,
+    #fff 15px
+  );
+}
+
+.pattern-3 {
+  background-color: #fff;
+  background-image: repeating-radial-gradient(
+    circle at left bottom,
+    #000,
+    #000 5px,
+    #fff 5px,
+    #fff 15px
+  );
+}
