@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -13,6 +13,7 @@ html {
 }
 
 body {
+  background-color: #efe;
   background-image: radial-gradient(#efe 95%, #000 95%);
   background-size: 1rem 1rem;
   background-attachment: fixed;
