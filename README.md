@@ -4,6 +4,7 @@ Here is my 20TwentyTwoDoList
 
 - ~~Tailwind~~
 - ~~Alpine.js~~
+- ~~Next.js~~
 - Three.js
 - Release a game.
 - Release an app on the AppStore.
